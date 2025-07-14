@@ -37,3 +37,8 @@ Frontend Dashboard: React.js (for analytics visualization)
 📅 Weekly summary emails or reports (optional feature)
 📂 User-specific data stored securely via backend API
 📉 Visual charts of productivity over time
+
+
+OUTPUT OF THE TASK:
+
+<img width="1478" height="851" alt="Image" src="https://github.com/user-attachments/assets/8c0efa65-6096-43f2-8eb7-f3236512a873" />
